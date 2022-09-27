@@ -1,6 +1,6 @@
 - 👋 Hi, I’m dandy
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript and python
+- 👀 I’m interested in coding, a bit of math, and english
+- 🌱 I’m currently learning .c and .py
 - 📫 How to reach me at gmail : rachmadandymahendras@gmail.com
 
 <!---
