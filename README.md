@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  .ps1, starship.tom, and javal<br>🌱 I’m currently learning Linux system, .c, .py, .git, .ps1, .toml, .java<br>💬 Reach me from my email : rachmadandymahendras@gmail.com
+🔭 I’m currently working on  .ps1, starship.tom, and java<br>🌱 I’m currently learning Linux system, .c, .py, .git, .ps1, .toml, .java<br>💬 Reach me from my email : rachmadandymahendras@gmail.com
 
 
 ## 🌐 Socials:
