@@ -1,4 +1,5 @@
 # 💫 Hellow! 
+![Codewars](https://www.codewars.com/users/rchmdndy/badges/large)
 <br>💬 Reach me from my email : rachmadandymahendras@gmail.com
 
 
@@ -14,6 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rchmdndy&icon=5&color=6)](https://visitcount.itsvg.in)
-![Codewars](https://www.codewars.com/users/rchmdndy/badges/large)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
