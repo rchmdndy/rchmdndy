@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student at s State Polytechnic<br>Beginner at algorithm and logic
+Currently a student at Semarang State Polytechnic<br>Interested in Java
 
 
 ## 🌐 Socials:
