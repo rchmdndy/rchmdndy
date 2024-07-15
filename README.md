@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student at Semarang State Polytechnic<br>Interested in Java
+Currently an undergraduate at Semarang State Polytechnic<br>Interested in Web Development
 
 
 ## 🌐 Socials:
